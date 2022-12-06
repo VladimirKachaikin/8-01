@@ -15,3 +15,10 @@ Date:   Tue Dec 6 20:25:22 2022 +0400
 
     Initial commit
 
+#Задание 2
+commit f0deab08657b83a887abf70b6366d74ab319baff (HEAD -> master, origin/master, origin/HEAD)
+Author: VladimirKachaikin <Vladimir.Kachaikin@gmail.com>
+Date:   Tue Dec 6 11:59:47 2022 -0500
+
+    Second commit
+
